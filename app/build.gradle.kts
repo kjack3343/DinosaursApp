@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.marsphotos"
+    namespace = "com.example.dinosaursphotos"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.marsphotos"
+        applicationId = "com.example.dinosaursphotos"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

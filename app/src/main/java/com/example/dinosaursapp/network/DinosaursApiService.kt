@@ -15,7 +15,7 @@ private val retrofit = Retrofit.Builder()
     .build()
 
 interface DinosaursApiService {
-    @GET("Dinosaurs/photos.json")
+    @GET("Dinosaurs/dinosaurs.json")
     suspend fun getPhotos(): List<DinosaursPhoto>
 }
 

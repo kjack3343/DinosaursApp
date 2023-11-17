@@ -28,7 +28,7 @@ import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.example.dinosaursapp.network.DinosaursPhoto
 import com.example.dinosaursapp.ui.theme.DinosaursAppTheme
-import com.example.marsphotos.R
+import com.example.dinosaursphotos.R
 
 
 @Composable
